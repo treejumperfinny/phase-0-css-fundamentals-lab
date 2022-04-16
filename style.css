@@ -3,3 +3,26 @@ body {
   height: 100%;
   margin: 0;
 }
+h1, h3, p, div, nav, figure {
+  text-align: center;
+}
+nav a{
+  padding-left: 10px;
+  padding-right: 10px;
+  background: cornflowerblue;
+}
+figcaption{
+  font-size: smaller;
+}
+#featured-property p {
+  width: 800px;
+  text-align: center;
+  margin: 0 auto;
+  padding-top: 10px;
+}
+#details div {
+  float: left;
+  text-align: center;
+  background: cornflowerblue;
+  width: 25%;
+}
